@@ -9,7 +9,7 @@ import csv
 ## plus the total number of hosts 
 
 
-listnet = ['172.27.212.0/24']
+listnet = ['10.0.0.0/24']
 count = 0
 
 
